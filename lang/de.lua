@@ -1,7 +1,7 @@
 if not Lang then Lang = {} end
 Lang['de'] = {
 	['open_refuel'] = "Drücke ~INPUT_CONTEXT~ zum Tanken",
-	['open_refuel_target'] = "Öfne Tank Menü",
+	['open_refuel_target'] = "Öffne Tank Menü",
 	['open_recharge'] = "Drücke ~INPUT_CONTEXT~ zum Laden",
 	['open_recharge_target'] = "Öfne Lade Menü",
 	['blip_text'] = "Tankstelle",
